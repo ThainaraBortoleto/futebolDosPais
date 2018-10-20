@@ -20,5 +20,6 @@
 <!-- Your custom styles (optional) -->
 <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
 <link href="css/main.css" rel="stylesheet">
-
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+<link href="css/main.css" rel="stylesheet">
 </head>
